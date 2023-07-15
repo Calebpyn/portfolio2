@@ -94,7 +94,7 @@ function Work() {
                         </div>
                     </div>
                     <div 
-                    className={open3? 'w-full transitions h-[40vh] md:h-[47vh] opacity-100 mt-5 text-white flex flex-col justify-between' : 'w-full h-0 opacity-0 transitions text-white flex flex-col justify-between'}>
+                    className={open3? 'w-full transitions h-[40vh] md:h-[49vh] opacity-100 mt-5 text-white flex flex-col justify-between' : 'w-full h-0 opacity-0 transitions text-white flex flex-col justify-between'}>
 
 
                         <p className='text-sm text-left'>2nd place in a 24-hour regional Gear Hackathon with web3-based solutions, competing against teams including PhD students. Team representative, delivering a compelling pitch showcasing the value of our web3-powered solution. Demonstrated resilience, collaboration, and passion for emerging technologies in the fast-paced Hackathon.</p>
